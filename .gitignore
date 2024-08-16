@@ -1,0 +1,4 @@
+#Sientifica no versioned assets
+docs/apache2/sites-available/*
+docker-compose.yml
+.env
