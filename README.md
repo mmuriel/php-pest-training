@@ -5,5 +5,5 @@ Proyecto para desarrollar las habilidades necesarias para trabajar con el framew
 
 ## Condiciones
 
-Autor: @maomuriel
-Fecha: 2024-08-16
+- Autor: @maomuriel
+- Fecha: 2024-08-16
